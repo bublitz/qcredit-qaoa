@@ -1,0 +1,6 @@
+qiskit==2.4.2
+qiskit-aer
+numpy
+pandas
+matplotlib
+scipy
