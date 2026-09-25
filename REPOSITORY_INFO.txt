@@ -1,9 +1,0 @@
-Repository name:
-qcredit-qaoa
-
-GitHub description:
-Quantum Approximate Optimization Algorithm (QAOA) applied to credit portfolio optimization using Qiskit.
-
-Suggested topics:
-qaoa, quantum-computing, qiskit, quantum-optimization, combinatorial-optimization,
-qubo, ising-model, optimization, python, portfolio-optimization
